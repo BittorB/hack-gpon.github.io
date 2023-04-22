@@ -23,10 +23,10 @@ parent: HALNy
 | Optics           | SC/APC               |
 | IP address       |                      |
 | Web Gui          |                      |
-| SSH              |                      |
+| SSH              | port 22666           |
 | Telnet           |                      |
 | Serial           | ✅                   |
-| Serial baud      | 115200               |
+| Serial baud      | 38400                |
 | Serial encoding  | 8-N-1                |
 | Form Factor      | miniONT SFP          |
 
